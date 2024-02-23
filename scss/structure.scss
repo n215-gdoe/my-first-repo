@@ -1,0 +1,21 @@
+
+.wrapper {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: ;
+}
+
+.responsive-box {
+    width: 90%;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    min-height: 400px;
+
+    .boxes {
+        width: 100%;
+        min-height: 50px;
+        background-color: cyan;
+        display: flex;
+        justify-content: space-between;
+    } 
+}
